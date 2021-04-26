@@ -4,6 +4,8 @@
 
 Over the past years i've been coding and learning about Web Development. Feel free to explore my repositories and maybe fork one of them ;)
 
+For more information please visit: [borica.github.io](borica.github.io)
+
 ### :clipboard: Technologies:
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
