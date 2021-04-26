@@ -1,4 +1,4 @@
-<img src="https://www.flaticon.com/svg/vstatic/svg/1053/1053367.svg?token=exp=1619480977~hmac=574936719d5e5185e5c1aaf03302c74b" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://www.flaticon.com/svg/vstatic/svg/1053/1053367.svg?token=exp=1619480977~hmac=574936719d5e5185e5c1aaf03302c74b" max-width="300px" width="300px" align="right" alt="Computer">
 
 ### Hello there ! Welcome to my profile. 🎇
 
