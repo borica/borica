@@ -1,4 +1,4 @@
-<img src="https://www.flaticon.com/svg/vstatic/svg/4425/4425608.svg?token=exp=1619480824~hmac=065fa29fa613999a4bdb0bf2e896b21e" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://www.flaticon.com/svg/vstatic/svg/1053/1053367.svg?token=exp=1619480977~hmac=574936719d5e5185e5c1aaf03302c74b" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 ### Welcome to my GitHub 🎇
 My name is Bruno Moraes, I am 22 years old and most of the time I spend developing in Java, Dart and Flutter, I continue to learn Python and Typescript. Below you can find the areas in which I work and / or study.
