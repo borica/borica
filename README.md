@@ -1,7 +1,8 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/1053/1053367.svg?token=exp=1619480977~hmac=574936719d5e5185e5c1aaf03302c74b" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-### Welcome to my GitHub 🎇
-My name is Bruno Moraes, I am 22 years old and most of the time I spend developing in Java, Dart and Flutter, I continue to learn Python and Typescript. Below you can find the areas in which I work and / or study.
+### Hello there ! Welcome to my profile. 🎇
+
+Over the past years i've been coding and learning about Web Development. Feel free to explore my repositories and maybe fork one of them ;)
 
 ### :clipboard: Technologies:
 
@@ -23,16 +24,6 @@ My name is Bruno Moraes, I am 22 years old and most of the time I spend developi
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Insomnia](https://img.shields.io/badge/Insomnia-430098?style=for-the-badge&logo=insomnia&logoColor=white)
 
-<br/>
-
-<details>
-  <summary>💬 Contact</summary>
-   <img alt="Discord" src="https://img.shields.io/badge/Zeuss%236943-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-   <a href="https://www.linkedin.com/in/bruno-moraes-b58bb8181/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-</details> 
-  
 <br/>
 
 [![borica stats](https://github-readme-stats.vercel.app/api?username=borica&theme=tokyonight)](https://github.com/borica/)
