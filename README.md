@@ -22,6 +22,9 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Insomnia](https://img.shields.io/badge/Insomnia-430098?style=for-the-badge&logo=insomnia&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-430098?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🚀 OS
+  ![Windows](https://img.shields.io/badge/Windows-430098?style=for-the-badge&logo=windows&logoColor=white)
+  
 <br/>
 
 [![borica stats](https://github-readme-stats.vercel.app/api?username=borica&theme=tokyonight)](https://github.com/borica/)
