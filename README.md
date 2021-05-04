@@ -22,8 +22,8 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Postman](https://img.shields.io/badge/Postman-430098?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🚀 OS
-  ![Windows](https://img.shields.io/badge/Windows-00FFFF?style=for-the-badge&logo=Windows&logoColor=white)
-  ![Mint](https://img.shields.io/badge/Mint-00FFFF?style=for-the-badge&logo=Linux-Mint&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-00FFFF?style=for-the-badge&logo=Windows&logoColor=black)
+  ![Mint](https://img.shields.io/badge/Mint-00FFFF?style=for-the-badge&logo=Linux-Mint&logoColor=black)
   
 <br/>
 
