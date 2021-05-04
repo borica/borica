@@ -1,6 +1,6 @@
 <img src="assets/brainn.png" max-width="300px" width="300px" align="right" alt="Computer">
 
-### Hello there ! Welcome to my profile. 🎇
+### Hello there ! Welcome to my profile.
 
 Over the past years i've been coding and learning about Web Development. Feel free to explore my repositories and maybe fork one of them ;)
 
@@ -19,6 +19,7 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Insomnia](https://img.shields.io/badge/Insomnia-430098?style=for-the-badge&logo=insomnia&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Insomnia-430098?style=for-the-badge&logo=eclipse&logoColor=white)
 
 <br/>
 
