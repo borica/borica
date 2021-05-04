@@ -28,8 +28,8 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Windows](https://img.shields.io/badge/Windows-00FFFF?style=for-the-badge&logo=Windows&logoColor=black)
   ![Mint](https://img.shields.io/badge/Mint-00FFFF?style=for-the-badge&logo=Linux-Mint&logoColor=black)
   
+### 👓 | Geeky stats for nerds  
 <br/>
-### 👓 | Geeky stats for nerds
 
 [![borica stats](https://github-readme-stats.vercel.app/api?username=borica&theme=tokyonight)](https://github.com/borica/)
 [![borica stats](https://github-readme-stats.vercel.app/api/top-langs/?username=borica&hide=html&layout=compact&theme=tokyonight)](https://github.com/borica/)
