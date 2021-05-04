@@ -10,6 +10,8 @@ For more information please visit: [borica.github.io](https://borica.github.io)
 
   ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-316192?style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-316192?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-316192?style=for-the-badge&logo=CSS3&logoColor=white)
   ![OracleSQL](https://img.shields.io/badge/OracleSQL-316192?style=for-the-badge&logo=Oracle&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-316192?style=for-the-badge&logo=git&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-316192?style=for-the-badge&logo=Bootstrap&logoColor=white)
