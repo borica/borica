@@ -8,10 +8,10 @@ For more information please visit: [borica.github.io](https://borica.github.io)
 
 ### :clipboard: Technologies:
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+  ![OracleSQL](https://img.shields.io/badge/OracleSQL-316192?style=for-the-badge&logo=Oracle&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-316192?style=for-the-badge&logo=git&logoColor=white)
   
 
 ### 🚀 Tools
@@ -23,8 +23,8 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Postman](https://img.shields.io/badge/Postman-430098?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🚀 OS
-  ![Windows](https://img.shields.io/badge/Windows-430098?style=for-the-badge&logo=Windows&logoColor=white)
-  ![Mint](https://img.shields.io/badge/Mint-430098?style=for-the-badge&logo=Linux-Mint&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-00FFFF?style=for-the-badge&logo=Windows&logoColor=white)
+  ![Mint](https://img.shields.io/badge/Mint-00FFFF?style=for-the-badge&logo=Linux-Mint&logoColor=white)
   
 <br/>
 
