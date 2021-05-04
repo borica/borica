@@ -24,7 +24,7 @@ For more information please visit: [borica.github.io](https://borica.github.io)
 
 ### 🚀 OS
   ![Windows](https://img.shields.io/badge/Windows-430098?style=for-the-badge&logo=Windows&logoColor=white)
-  ![Mint](https://img.shields.io/badge/Mint-430098?style=for-the-badge&logo=Linux_Mint&logoColor=white)
+  ![Mint](https://img.shields.io/badge/Mint-430098?style=for-the-badge&logo=Linux-Mint&logoColor=white)
   
 <br/>
 
