@@ -29,6 +29,7 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Mint](https://img.shields.io/badge/Mint-00FFFF?style=for-the-badge&logo=Linux-Mint&logoColor=black)
   
 <br/>
+### 👓 | Geeky stats for nerds
 
 [![borica stats](https://github-readme-stats.vercel.app/api?username=borica&theme=tokyonight)](https://github.com/borica/)
 [![borica stats](https://github-readme-stats.vercel.app/api/top-langs/?username=borica&hide=html&layout=compact&theme=tokyonight)](https://github.com/borica/)
