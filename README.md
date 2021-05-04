@@ -1,4 +1,4 @@
-<img src="assets/binary.png" max-width="300px" width="300px" align="right" alt="Computer">
+<img src="assets/brain.png" max-width="300px" width="300px" align="right" alt="Computer">
 
 ### Hello there ! Welcome to my profile. 🎇
 
