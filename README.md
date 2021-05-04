@@ -6,7 +6,7 @@ Over the past years i've been coding and learning about Web Development. Feel fr
 
 For more information please visit: [borica.github.io](https://borica.github.io)
 
-### :clipboard: Technologies:
+### 🤖 | Technologies:
 
   ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white)
   ![OracleSQL](https://img.shields.io/badge/OracleSQL-316192?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -15,7 +15,7 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Primefaces](https://img.shields.io/badge/Primefaces-316192?style=for-the-badge&logo=Primefaces&logoColor=white)
   
 
-### 🚀 Tools
+### 🔧 | Tools
 
   ![Eclipse](https://img.shields.io/badge/Eclipse-430098?style=for-the-badge&logo=eclipse&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-430098?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -23,7 +23,7 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Insomnia](https://img.shields.io/badge/Insomnia-430098?style=for-the-badge&logo=insomnia&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-430098?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🚀 OS
+### 🖥️ | OS
   ![Windows](https://img.shields.io/badge/Windows-00FFFF?style=for-the-badge&logo=Windows&logoColor=black)
   ![Mint](https://img.shields.io/badge/Mint-00FFFF?style=for-the-badge&logo=Linux-Mint&logoColor=black)
   
