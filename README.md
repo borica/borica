@@ -23,7 +23,7 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Eclipse](https://img.shields.io/badge/Eclipse-430098?style=for-the-badge&logo=eclipse&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-430098?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-430098?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Notepad++](https://img.shields.io/badge/Notepad-430098?style=for-the-badge&logo=Notepad&#43;&#43;&logoColor=white)
+  ![Notepad++](https://img.shields.io/badge/Notepad-430098?style=for-the-badge&logo=Notepad&#43&#43&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-430098?style=for-the-badge&logo=insomnia&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-430098?style=for-the-badge&logo=postman&logoColor=white)
 
