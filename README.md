@@ -23,7 +23,7 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Postman](https://img.shields.io/badge/Postman-430098?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🚀 OS
-  ![Windows](https://img.shields.io/badge/Windows-430098?style=for-the-badge&logo=windows&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-430098?style=for-the-badge&logo=Windows&logoColor=white)
   
 <br/>
 
