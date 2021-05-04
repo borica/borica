@@ -11,6 +11,8 @@ For more information please visit: [borica.github.io](https://borica.github.io)
   ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white)
   ![OracleSQL](https://img.shields.io/badge/OracleSQL-316192?style=for-the-badge&logo=Oracle&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-316192?style=for-the-badge&logo=git&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-316192?style=for-the-badge&logo=Bootstrap&logoColor=white)
+  ![Primefaces](https://img.shields.io/badge/Primefaces-316192?style=for-the-badge&logo=Primefaces&logoColor=white)
   
 
 ### 🚀 Tools
