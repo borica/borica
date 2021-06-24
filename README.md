@@ -1,6 +1,4 @@
-<img src="assets/brainn.png" max-width="300px" width="300px" align="right" alt="Computer">
-
-### Hello there ! Welcome to my profile.
+## Hello there ! Welcome to my profile.
 
 Over the past years i've been coding and learning about Web Development. Feel free to explore my repositories and maybe fork one of them ;)
 
