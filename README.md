@@ -1,6 +1,6 @@
 ## Hello there ! Welcome to my profile.
 
-This is my personal profile, where i host my personal and porfolio repositories, my professional github is currently at [Log-Borica](https://github.com/log-borica), where I collaborate for the Logcomex company.
+Here is where i host my personal and porfolio repositories. My professional Github is currently at [Log-Borica](https://github.com/log-borica), where I collaborate for the Logcomex company in private repos.
 
 Over the past years i've been coding and learning about Web Development. Feel free to explore my repositories and maybe fork one of them ;)
 
